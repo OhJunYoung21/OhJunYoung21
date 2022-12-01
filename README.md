@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/wnsdyd14)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsdyd14)](https://solved.ac/wnsdyd14)
 
 <!--
 **OhJunYoung21/OhJunYoung21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
