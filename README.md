@@ -2,6 +2,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsdyd14)](https://solved.ac/wnsdyd14)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhJunYoung21)](https://github.com/OhJunYoung21/github-readme-stats)
+
 <!--
 **OhJunYoung21/OhJunYoung21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
