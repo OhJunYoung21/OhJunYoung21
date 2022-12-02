@@ -10,6 +10,7 @@
   <h2> 🌱languages🌱 </h2>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <h2>💬About me💬</h2>
+  <a href="https://velog.io/@dhwnsdyd28"><img src="https://img.shields.io/badge/Velog-3766AB?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dhwnsdyd28"/></a>&nbsp
   
   </div>
 
