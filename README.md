@@ -1,4 +1,4 @@
-### 👋 Hi, I’m junyong
+### 👋 Hi, I’m junyong. I'm trying to enjoy my life as much as i could.
 
 ***
 
