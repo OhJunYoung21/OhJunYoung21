@@ -10,8 +10,6 @@
   <h2> 🌱Tech🌱 </h2>
   <img src="https://img.shields.io/badge/Android-red?style=flat&logo=android&logoColor=7F52FF"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=android Studio&logoColor=7F52FF"/></a>&nbsp
-  
-  
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="35" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
   <h2> 🌱languages🌱 </h2>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
