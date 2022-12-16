@@ -1,7 +1,6 @@
-### 👋 Hi, I’m junyong. I'm trying to enjoy my life as much as i could.
+### 👋 Hi, I’m junyong. I'm trying to enjoy my life as much as i can7.
 
 ***
-
 <div align =center>
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsdyd14)](https://solved.ac/wnsdyd14)
