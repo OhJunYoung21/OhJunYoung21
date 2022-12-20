@@ -22,11 +22,13 @@
 
 
   <h2>💡My Git Stats💡</h2>
+  
  
 
 [![OhJunYoung21's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhJunYoung21&show_icons=true&theme=monokai)]
   
-  
+***
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOhJunYong21%2Fhit-counter&count_bg=%233DC86F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
  
   </div>
 
