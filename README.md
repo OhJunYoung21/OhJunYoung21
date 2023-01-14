@@ -22,7 +22,6 @@
 
 
   <h2>💡My Git Stats💡</h2>
-  
 [![OhJunYoung21's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhJunYoung21&show_icons=true&theme=monokai)]
   
 ***
