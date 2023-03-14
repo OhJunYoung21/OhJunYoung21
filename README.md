@@ -3,7 +3,7 @@
 ***
 <div align =center>
   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsdyd14)](https://solved.ac/wnsdyd14)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsdyd14)](https://solved.ac/wnsdyd14)
 
 ***
   <h2> 🌱Tech🌱 </h2>
