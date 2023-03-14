@@ -3,9 +3,13 @@
 ***
 <div align =center>
   
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsdyd14)](https://solved.ac/wnsdyd14)
+   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsdyd14)](https://solved.ac/wnsdyd14)
+  
+</div>
 
 ***
+
+<div align =center>
   <h2> 🌱Tech🌱 </h2>
   <img src="https://img.shields.io/badge/Android-red?style=flat&logo=android&logoColor=7F52FF"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=android Studio&logoColor=7F52FF"/></a>&nbsp
