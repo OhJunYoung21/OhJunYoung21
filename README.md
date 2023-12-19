@@ -1,4 +1,4 @@
-### 👋 Hi, I’m junyong. I'm studying MachineLearning using Tensorflow and Pytorch.
+### 🧑‍💻Hi, I’m junyong. I'm Android Development and Kotlin🧑‍💻.
 
 
 
