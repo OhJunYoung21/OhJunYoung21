@@ -1,4 +1,4 @@
-### 🧑‍💻Hi, I’m junyong. I'm Android Development and Kotlin🧑‍💻.
+### 🧑‍💻Hi, I’m junyong. I'm Studying Computational Cognitive neuroscience at SAHIST🧑‍💻.
 
 
 
