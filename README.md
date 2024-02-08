@@ -1,4 +1,4 @@
-### 🧑‍💻Hi, I’m junyong. I'm Studying Computational Cognitive neuroscience at SAHIST🧑‍💻.
+### 🧑‍💻Hi, I’m junyong. I'm Studying Computational Cognitive neuroscience at SAIHST🧑‍💻.
 
 
 
